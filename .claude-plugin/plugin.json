@@ -1,0 +1,20 @@
+{
+  "name": "tuvora",
+  "version": "1.0.0",
+  "description": "Tidy your Tuvora Live TV in plain words from Claude Code: hide categories, pin and reorder channels, build custom groups. Previews every change before saving.",
+  "author": {
+    "name": "Hastkari LLC",
+    "url": "https://tuvora.co"
+  },
+  "homepage": "https://tuvora.co/ai-assistants",
+  "license": "MIT",
+  "keywords": [
+    "iptv",
+    "live-tv",
+    "xtream",
+    "playlist",
+    "mcp"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://tuvora.co/privacy#ai-assistants"
+}
